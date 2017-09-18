@@ -1,6 +1,6 @@
 # coding-challenge-control
 
->  
+Just a small app written with `vue.js`.
 
 ## Build Setup
 
